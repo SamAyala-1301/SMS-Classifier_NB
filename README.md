@@ -2,7 +2,7 @@
 
 This project involves building a machine learning model to classify SMS messages as either “spam” or “ham” (not spam). The dataset used contains 5,572 SMS messages, labeled as either “spam” or “ham.” The goal is to preprocess the data, explore it, and build a model that can accurately predict spam messages.
 
-Project Steps:
+### Project Steps:
 
 1. Data Loading and Cleaning
 
